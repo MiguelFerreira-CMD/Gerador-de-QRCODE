@@ -30,7 +30,6 @@ pip install qrcode pillow
 Gerador-de-QRCODE/
 │
 ├── gerar_qrcode.py
-├── qr_github.png
 └── README.md
 ```
 
